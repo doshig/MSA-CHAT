@@ -1,9 +1,8 @@
-# DRF-Chat
 Live Chat using Django REST Framework
-
-(_One of my just-for-fun projects_)
+Project by: Gautam Doshi
 
 ## Installation
+You can also create a conda env if you have Anaconda installed.
 
 This app uses memcached to store Users online status, So you will need to install it.
 
