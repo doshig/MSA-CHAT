@@ -43,6 +43,11 @@ Try creating a superuser for user management
 ./manage.py createsuperuser
 ```
 
+Superuser creation in Git Bash
+```
+winpty python manage.py createsuperuser
+```
+
 Give necessary inputs
 
 Run development server
