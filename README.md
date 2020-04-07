@@ -23,7 +23,7 @@ virtualenv venv
 ```
 Activate
 ```
-source venv/bin/activate
+source venv/Scripts/activate
 ```
 
 Install requirements
